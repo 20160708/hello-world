@@ -15,5 +15,5 @@ int test()
     fgets(s, 100, fp);
     printf("%s\n", s);
     fclose(fp);
-    return 0;
+    return 0;/*test for git*/
 }
